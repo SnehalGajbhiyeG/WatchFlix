@@ -37,7 +37,10 @@
 - GPT Search Page 
 - GPT Search Bar 
 - Multi-language Features in our App
-- 
+- Memoization
+- Added .env file
+- Adding .env file to gitignore
+- Made our Site Responsive
 
 ...
 # Features
